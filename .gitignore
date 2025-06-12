@@ -1,0 +1,7 @@
+# Archivos y carpetas a ignorar por Git
+node_modules/
+.env
+uploads/
+.idea/
+
+
